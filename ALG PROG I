@@ -1,16 +1,16 @@
-#ALGORITMOS E PROGRAMAÇÃO I
+#ALGORITHMS AND PROGRAMMING I
 
-#Codaremos baseando-se em problemas reais.
+# We will code based on real problems.
 
-#TEMAS ABORDADOS:
+# TOPICS ADDRESSED:
 
-# Funções básicas (input(), print(), type(), string(), int(), float(), bool())
+# Basic functions (input(), print(), type(), string(), int(), float(), bool())
 
-# Operaçoes Aritméticas (soma, subtração, multiplicação, divisão, divisão truncada, resto da divisão, potencia, radiciação, logaritmação)
-# com o uso da biblioteca .math e com uso apenas dos operadores aritiméticos.
+# Arithmetic Operations (addition, subtraction, multiplication, division, truncated division, remainder of division, power, root, logarithm)
+# using the .math library and using only arithmetic operators.
 
-# Expressões Relacionais (==, !=, >, <, >=, <=)
+# Relational Expressions (==, !=, >, <, >=, <=)
 
-# Expressões Lógicas (and, not, or)
+# Logical Expressions (and, not, or)
 
-# 
+#
