@@ -1,9 +1,4 @@
-# TADS-Python-Exercicios
-Exercícios baseados nas aulas de turma universitária de Análise e Desenvolvimento de Sistemas 
-
-ALGORITHMS AND PROGRAMMING I
-
-We will code based on real problems.
+A repository to solve basic real problems.
 
 TOPICS ADDRESSED:
 
