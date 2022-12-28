@@ -1,2 +1,1 @@
-A repository to solve basic real problems.
-
+This is a repository full of entry-level code :wink:	
