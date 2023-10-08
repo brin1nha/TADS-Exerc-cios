@@ -6,9 +6,9 @@ This Java program copies the contents of one file to another. It takes two comma
 
 To run the program, use the following command:
 
-```bash
+~~~bash
 java Main source_file destination_file
-
+~~~
 
 ## Notes
 
